@@ -1,0 +1,1 @@
+# moving_sprinklr_daily_and_weekely_tagpull_file
